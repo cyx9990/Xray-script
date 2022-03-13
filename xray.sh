@@ -7,18 +7,13 @@ BLUE="\033[36m"   # Info message
 PLAIN='\033[0m'
 
 SITES=(
-	http://www.zhuizishu.com/
 	http://xs.56dyc.com/
 	http://www.ddxsku.com/
-	http://www.biqu6.com/
-	https://www.wenshulou.cc/
 	http://www.55shuba.com/
-	http://www.39shubao.com/
 	https://www.23xsw.cc/
+	https://www.ishubao.org/
 	https://www.jueshitangmen.info/
-	https://www.zhetian.org/
 	http://www.bequgexs.com/
-	http://www.tjwl.com/
 )
 
 CONFIG_FILE="/usr/local/etc/xray/config.json"
